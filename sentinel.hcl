@@ -1,5 +1,5 @@
 import "static" "approved" {
-  source = "./approved.json"
+  source = "https://raw.githubusercontent.com/intel/policy-library-intel-aws/main/approved.json"
   format = "json"
 }
 
